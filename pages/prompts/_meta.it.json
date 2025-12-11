@@ -1,15 +1,15 @@
 {
-    "classification": "Classification",
+    "classification": "Classificazione",
     "coding": "Coding",
-    "creativity": "Creativity",
+    "creativity": "Creatività",
     "evaluation": "Evaluation",
-    "information-extraction": "Information Extraction",
-    "image-generation": "Image Generation",
-    "mathematics": "Mathematics",
+    "information-extraction": "Estrazione di Informazioni",
+    "image-generation": "Generazione di Immagini",
+    "mathematics": "Matematica",
     "question-answering": "Question Answering",
-    "reasoning": "Reasoning",
-    "text-summarization": "Text Summarization",
-    "truthfulness": "Truthfulness",
+    "reasoning": "Ragionamento",
+    "text-summarization": "Sintesi Testuale",
+    "truthfulness": "Attendibilità",
     "adversarial-prompting": "Adversarial Prompting"
 }
   
